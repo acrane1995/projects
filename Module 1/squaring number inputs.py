@@ -15,3 +15,5 @@ print(numlist2)
 #print(num3**2) #* num3)
 #print(num4**2) #* num4)
 #print(num5**2) #* num5)
+#this worked but looks messier
+
